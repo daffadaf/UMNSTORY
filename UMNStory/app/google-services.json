@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382288244295",
+    "project_id": "umnstory-3478c",
+    "storage_bucket": "umnstory-3478c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382288244295:android:e756ace39b43c7a4070b62",
+        "android_client_info": {
+          "package_name": "com.umn.story"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvcedIKKcceP9KtaRPzSInBp93omMyBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
