@@ -13,7 +13,8 @@ UMNStory is an Android app designed for **UMN students** to share their stories 
 
 ## ⚙️ Technologies Used ⚙️
 
-- **Android Studio**: Built using Android Studio with Kotlin/Java.
-- **Firebase**: Real-time database, cloud storage, and authentication.
-- **RecyclerView**: Efficient and smooth scrolling list for displaying stories.
-- **Material Design**: Clean and consistent UI/UX across the app.
+- **Flutter**: Cross-platform development for both Android and iOS using a single codebase.
+- **Dart**: Programming language used for Flutter app development.
+- **Firebase**: Firebase Authentication for user login, Firestore for real-time database, and Firebase Cloud Storage for handling images.
+- **Provider**: State management solution for handling app states.
+- **Material Design**: Clean and consistent UI/UX using Flutter's Material Design components for Android and iOS.
